@@ -6,7 +6,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'typeface-lobster';
 import 'typeface-open-sans';
 import App from './App';
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
